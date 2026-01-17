@@ -1,0 +1,31 @@
+h1{
+  background-color: gray;
+  color: white;
+  text-align: center;
+  text-decoration: underline;
+  padding: 10px;
+}
+
+body{
+  background-color: gray;
+  text-align: center;
+}
+
+div{
+  color: white;
+  font-size: 26px;
+  margin-top: 40px;
+}
+
+#result{
+  font-size: 22px;
+  margin-top: 30px;
+  font-weight: bold;
+  color: white;
+}
+
+button{
+  padding: 10px 20px;
+  font-size: 16px;
+  margin-top: 20px;
+}
